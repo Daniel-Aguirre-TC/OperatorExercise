@@ -1,0 +1,13 @@
+C:\Users\Second-Desktop\repos\OperatorExercise\OperatorExercise\bin\Debug\netcoreapp3.1\OperatorExercise.exe
+C:\Users\Second-Desktop\repos\OperatorExercise\OperatorExercise\bin\Debug\netcoreapp3.1\OperatorExercise.deps.json
+C:\Users\Second-Desktop\repos\OperatorExercise\OperatorExercise\bin\Debug\netcoreapp3.1\OperatorExercise.runtimeconfig.json
+C:\Users\Second-Desktop\repos\OperatorExercise\OperatorExercise\bin\Debug\netcoreapp3.1\OperatorExercise.runtimeconfig.dev.json
+C:\Users\Second-Desktop\repos\OperatorExercise\OperatorExercise\bin\Debug\netcoreapp3.1\OperatorExercise.dll
+C:\Users\Second-Desktop\repos\OperatorExercise\OperatorExercise\bin\Debug\netcoreapp3.1\OperatorExercise.pdb
+C:\Users\Second-Desktop\repos\OperatorExercise\OperatorExercise\obj\Debug\netcoreapp3.1\OperatorExercise.csproj.AssemblyReference.cache
+C:\Users\Second-Desktop\repos\OperatorExercise\OperatorExercise\obj\Debug\netcoreapp3.1\OperatorExercise.AssemblyInfoInputs.cache
+C:\Users\Second-Desktop\repos\OperatorExercise\OperatorExercise\obj\Debug\netcoreapp3.1\OperatorExercise.AssemblyInfo.cs
+C:\Users\Second-Desktop\repos\OperatorExercise\OperatorExercise\obj\Debug\netcoreapp3.1\OperatorExercise.csproj.CoreCompileInputs.cache
+C:\Users\Second-Desktop\repos\OperatorExercise\OperatorExercise\obj\Debug\netcoreapp3.1\OperatorExercise.dll
+C:\Users\Second-Desktop\repos\OperatorExercise\OperatorExercise\obj\Debug\netcoreapp3.1\OperatorExercise.pdb
+C:\Users\Second-Desktop\repos\OperatorExercise\OperatorExercise\obj\Debug\netcoreapp3.1\OperatorExercise.genruntimeconfig.cache
